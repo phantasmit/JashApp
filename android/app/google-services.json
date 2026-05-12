@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091546165889",
+    "project_id": "jash-odoo-app",
+    "storage_bucket": "jash-odoo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091546165889:android:eee88a70667f0d7f6c5380",
+        "android_client_info": {
+          "package_name": "com.odoo.jash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFTqOIB4Ikf5WmK37-yEOASbD5LwMjgxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

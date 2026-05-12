@@ -1,0 +1,1 @@
+export const JOB_LIST_REQ = "job_list_req";
